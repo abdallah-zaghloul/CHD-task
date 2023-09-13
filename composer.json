@@ -1,0 +1,24 @@
+{
+    "name": "abdallah-zaghloul/cartesian-product",
+    "description": "Cartesian Product",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AbdallahZaghloul\\CartesianProduct\\": "src/"
+        },
+        "files": [
+            "src/index.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "abdallah-zaghloul",
+            "email": "3bdallahzaghloul@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "7.4"
+    }
+}
